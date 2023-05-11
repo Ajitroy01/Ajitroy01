@@ -17,7 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajitroy01&show_icons=true&locale=en" alt="ajitroy01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajitroy01&show_icons=true&locale=en" alt="ajitroy01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajitroy01&show_icons=true&locale=en&layout=compact" alt="ajitroy01" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajitroy01" alt="ajitroy01" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajitroy01&" alt="ajitroy01" /></p>
