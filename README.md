@@ -19,7 +19,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center" display="flex">
+<p align="center">
   <a href="https://github.com/Ajitroy01">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajitroy01&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajitroy01&layout=compact&exclude_lang=java+r&theme=vue-dark" />
