@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML | CSS | JAVASCRIPT | JAVA**
 
-- 📫 How to reach me **ajit607029@gmail.com** | <a href="https://www.linkedin.com/in/ajit-roy-752061278">**LinkedIn**</a>
+- 📫 How to reach me **ajit607029@gmail.com** | <a href="https://www.linkedin.com/in/ajitroy01/">**LinkedIn**</a>
 
 </p>
 
