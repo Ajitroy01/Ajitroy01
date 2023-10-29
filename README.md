@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **JAVA | API | GENERATIVE AI | DATABASES**
+- 💬 Ask me about **JAVA | API | DATABASE | AI**
 
 - 📫 How to reach me **ajit607029@gmail.com** | <a href="https://www.linkedin.com/in/ajitroy01/">**LinkedIn**</a> | <a href="https://ajitroy01.github.io/">**Portfolio**</a>
 
