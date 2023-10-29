@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajit Kumar Roy</h1>
-<p align="left">An aspiring Full Stack Web Developer with a focus on Java Backend Development. Proficient in HTML, CSS, JavaScript and Java with relevant coursework and project experience. Currently pursuing 30 Week Full-Time Web Development course at Masai School, Bengaluru. Eager to contribute to innovative projects and gain hands-on experience in a collaborative team environment.</p>
+<p align="left">A versatile Full Stack Web Developer with a strong grasp of HTML, CSS, JavaScript, Java, and Spring Frameworks. I'm also passionate about Generative AI. I've tackled a range of solo and collaborative projects and am known for my fast learning ability. Let's connect and collaborate on exciting ventures in the world of web development and beyond! 🚀</p>
 <img align="right" alt="Coding" width="460px" height="225px" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif">
 
 
